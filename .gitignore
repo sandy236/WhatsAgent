@@ -1,0 +1,68 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.pyc
+.Python
+.pytest_cache/
+.python-version
+venv/
+.venv/
+.venv*/
+build/
+dist/
+
+# Packages
+*.egg-info/
+*.egg
+.eggs/
+
+# Environment files
+.env
+.env.local
+.env.*
+!.env.example
+
+# Node
+node_modules/
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+pnpm-debug.log*
+
+# Frontend
+frontend/.next/
+frontend/out/
+frontend/.turbo/
+frontend/node_modules/
+
+# WhatsApp gateway
+wa-gateway/node_modules/
+wa-gateway/.wwebjs_auth/
+wa-gateway/session/
+wa-gateway/*
+
+# Editor/project files
+.vscode/
+.idea/
+*.sublime-project
+*.sublime-workspace
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
+
+# Local database and chroma storage
+*/data/chromadb/
+*/data/chromadb/**
+*/data/*.sqlite3
+*/data/*.db
+*.sqlite3
+*.db
+
+# mkdocs built site
+site/

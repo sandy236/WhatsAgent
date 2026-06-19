@@ -1,0 +1,11 @@
+site_name: AgentWA Documentation
+site_description: Documentation for the AgentWA self-hosted RAG assistant and WhatsApp gateway.
+site_dir: site
+nav:
+  - Home: index.md
+  - Getting Started: getting-started.md
+  - Architecture: architecture.md
+  - Deployment: deployment.md
+  - FAQ: faq.md
+theme:
+  name: readthedocs
