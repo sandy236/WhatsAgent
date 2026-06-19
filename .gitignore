@@ -41,7 +41,7 @@ frontend/node_modules/
 wa-gateway/node_modules/
 wa-gateway/.wwebjs_auth/
 wa-gateway/session/
-wa-gateway/*
+wa-gateway/.wwebjs_cache/
 
 # Editor/project files
 .vscode/
