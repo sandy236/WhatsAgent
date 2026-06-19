@@ -1,5 +1,8 @@
 name: Deploy MkDocs Documentation
 
+permissions:
+  contents: write
+
 on:
   push:
     branches:
