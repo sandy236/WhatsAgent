@@ -1,11 +1,14 @@
-site_name: AgentWA Documentation
-site_description: Documentation for the AgentWA self-hosted RAG assistant and WhatsApp gateway.
+site_name: WhatsAgent Documentation
+site_description: Documentation for the WhatsAgent self-hosted RAG assistant and WhatsApp gateway.
 site_dir: site
+repo_url: https://github.com/sandy236/WhatsAgent
+repo_name: GitHub
 nav:
   - Home: index.md
   - Getting Started: getting-started.md
   - Architecture: architecture.md
   - Deployment: deployment.md
   - FAQ: faq.md
+  - LinkedIn: https://www.linkedin.com/in/sundeep-sharma/
 theme:
   name: readthedocs

@@ -1,6 +1,6 @@
-# AgentWA Documentation
+# WhatsAgent Documentation
 
-Welcome to the AgentWA documentation site.
+Welcome to the WhatsAgent documentation site.
 
 This repository combines:
 
@@ -10,3 +10,8 @@ This repository combines:
 - A ChromaDB vector store for retrieval-augmented generation.
 
 Use the navigation on the left to find setup instructions, system architecture, deployment details, and FAQs.
+
+Project links:
+
+- GitHub: https://github.com/sandy236/WhatsAgent
+- LinkedIn: https://www.linkedin.com/in/sundeep-sharma/
